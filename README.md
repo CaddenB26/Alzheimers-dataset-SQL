@@ -38,7 +38,7 @@ Data visualization: bar chart
 
 
 
-Because so many of the values were not significant one way we can assume:
+Because so many of the values were not significant one way or another so we can assume:
 
 1. That the root cause of alzheimers is still unknow
 2. The ethnicity with the most likely chance of getting alzheimers is those who are Asian descendants
